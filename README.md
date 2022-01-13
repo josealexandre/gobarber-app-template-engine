@@ -3,8 +3,8 @@
 A barber booking app developed using Node.js for study purposes.
 
 <div>
-<img src="https://user-images.githubusercontent.com/4960681/149249344-190dd516-3c46-42e8-9227-b4504903b731.png" width="450" height="300" />
-<img src="https://user-images.githubusercontent.com/4960681/149254470-93944c4f-89a0-4ed8-b661-b38e7dd42b6e.png" width="450" height="300" />
+<img src="https://user-images.githubusercontent.com/4960681/149249344-190dd516-3c46-42e8-9227-b4504903b731.png" width="850" height="564" />
+<img src="https://user-images.githubusercontent.com/4960681/149254470-93944c4f-89a0-4ed8-b661-b38e7dd42b6e.png" width="850" height="564" />
 </div>
 
 ## Frameworks and packages
