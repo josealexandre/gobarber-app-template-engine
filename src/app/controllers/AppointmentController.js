@@ -26,7 +26,7 @@ class AppointmentController {
             include: [
                 {
                     model: User,
-                    as: 'user',
+                    as: 'User',
                     where: { userId: sequelize.col('User.id') }
                 }
             ],
