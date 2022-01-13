@@ -1,6 +1,11 @@
-# Module 2
+# GoBarber app
 
-GoBarber app developed from 2nd Node.js module classes.
+A barber booking app developed for study purposes.
+
+<div>
+<img src="https://user-images.githubusercontent.com/4960681/149249344-190dd516-3c46-42e8-9227-b4504903b731.png" width="450" height="300" />
+<img src="https://user-images.githubusercontent.com/4960681/149254470-93944c4f-89a0-4ed8-b661-b38e7dd42b6e.png" width="450" height="300" />
+</div>
 
 ## Frameworks and packages
 
