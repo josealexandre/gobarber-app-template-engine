@@ -1,6 +1,6 @@
 # GoBarber app
 
-A barber booking app developed for study purposes.
+A barber booking app developed using Node.js for study purposes.
 
 <div>
 <img src="https://user-images.githubusercontent.com/4960681/149249344-190dd516-3c46-42e8-9227-b4504903b731.png" width="450" height="300" />
